@@ -1,0 +1,6 @@
+ERROR:root:API Error: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=London&units=metric
+ERROR:root:API Error: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=London&appid=821f67a7364e5ede5e6d99a1afe9c653&units=metric
+ERROR:root:API Error: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=London&appid=792a55f3c93398a05d43328bd309e294&units=metric
+ERROR:root:API Error: 404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=E1+6AN&appid=792a55f3c93398a05d43328bd309e294&units=metric
+ERROR:root:Forecast API Error: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/forecast?q=London&appid=YOUR_KEY&units=metric&q=Paris&appid=792a55f3c93398a05d43328bd309e294&units=metric
+ERROR:root:API Error: 404 Client Error: Not Found for url: https://api.openweathermap.org/data/2.5/weather?q=bhawalpur&appid=792a55f3c93398a05d43328bd309e294&units=metric
