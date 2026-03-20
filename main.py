@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 from cli import parse_args
 from api import get_weather, get_forecast
 from display import display_weather, display_forecast
